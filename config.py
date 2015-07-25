@@ -1,3 +1,3 @@
-username = "username"
-password = "password"
-subreddit = "subreddit"
+username = "GearsBot"
+password = "gearsofwar1"
+subreddit = "Stock_CSS"
